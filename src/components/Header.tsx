@@ -5,7 +5,7 @@ import { LocateFixed } from "lucide-react";
 
 const Header = () => {
   return (
-    <header className="bg-[#0C101C] mt-12 rounded-2xl py-4 px-4">
+    <header className="bg-[#0C101C] rounded-2xl py-4 px-4">
       <div className="flex items-center justify-between text-white">
         <div className="flex items-center gap-4 text-[#177EE8]">
           <Menu opacity={0.7} cursor={"pointer"} height={20} />
